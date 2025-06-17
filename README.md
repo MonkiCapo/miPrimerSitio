@@ -2,7 +2,7 @@
 
 ¡Bienvenido/a a miPrimerSitio!
 
-Este proyecto es mi primer sitio web, enfocado en la exhibición y venta de partes de autos. El objetivo principal es aprender sobre desarrollo web creando una página sencilla pero funcional.
+Este proyecto es mi primer sitio web, enfocado en la exhibición y venta de partes de autos. Mi objetivo principal es simplemente aprender a mejorar mi página y seguir aprendiendo desarrollo web
 
 ## Descripción
 
