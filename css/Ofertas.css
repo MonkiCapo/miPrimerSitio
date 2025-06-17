@@ -1,0 +1,87 @@
+p {
+    font-family: 'Merriweather', serif;
+    font-weight: bolder;
+    padding: 5px;
+}
+
+h2 {
+    color: #1563b1;
+    font-size: 1.4rem;
+    margin-bottom: 0.5rem;
+    text-align: center;
+}
+
+h3 {
+    color: #333333a2;
+    font-weight: normal;
+    text-align: center;
+}
+
+h4 {
+    color: #3333339d;
+    font-weight: normal;
+    text-align: center;
+}
+
+@media (max-width: 1024px) {
+    .informacion {
+        flex-direction: column;
+        align-items: center;
+        margin: 20px 0;
+        gap: 1.5rem;
+    }
+    article {
+        width: 80%;
+        min-height: 300px;
+    }
+}
+
+@media (max-width: 700px) {
+    .informacion {
+        flex-direction: column;
+        align-items: center;
+        margin: 10px 0;
+        gap: 1rem;
+    }
+    article {
+        width: 95%;
+        min-height: 250px;
+    }
+    .imagen {
+        height: 140px;
+    }
+    h2, .informacion h2 {
+        font-size: 1.1rem;
+    }
+}
+
+@media (max-width: 431px) {
+    body {
+        font-size: 15px;
+    }
+    .informacion {
+        flex-direction: column;
+        margin: 10px 0;
+        gap: 1rem;
+    }
+    article {
+        width: 100%;
+        min-height: 200px;
+    }
+    .imagen {
+        height: 100px;
+    }
+    h2, .informacion h2 {
+        font-size: 1rem;
+    }
+    header h1 {
+        font-size: 1.2rem;
+    }
+    nav a {
+        padding: 0.5rem 0;
+        font-size: 0.95rem;
+    }
+    footer {
+        font-size: 0.85rem;
+    }
+}
