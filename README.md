@@ -12,7 +12,6 @@ El sitio permite a los usuarios explorar diferentes partes de autos, ver imágen
 
 - Catálogo de partes de autos (motores, llantas, frenos, etc.)
 - Imágenes y descripciones detalladas de cada parte
-- Precios visibles y actualizados
 - Diseño responsivo
 - Navegación sencilla
 
